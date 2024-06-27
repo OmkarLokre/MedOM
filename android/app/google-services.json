@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372128454670",
+    "project_id": "omkar-149d8",
+    "storage_bucket": "omkar-149d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372128454670:android:25a662299fa38b4423845f",
+        "android_client_info": {
+          "package_name": "com.example.online_doctor_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYbSfyCAf8o74nBTtZ6mKc7_LEt_wsqA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
